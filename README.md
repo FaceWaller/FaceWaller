@@ -4,12 +4,12 @@ I'm an iOS developer who primarily uses Objective-C, Rust, and C++. My go-to too
 
 <p align="center">
 
-<p>
+
 ## Skills
 
 - 💻 **Languages**: Objective-C, Rust, C++, Swift
 - 🔨 **Tools**: Xcode, VSCode, Git, JIRA, Confluence
-</p>
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaceWaller&layout=compact&theme=radical" alt="Top Languages"/>
 
