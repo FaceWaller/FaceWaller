@@ -7,23 +7,30 @@ I'm an iOS developer who primarily uses Objective-C, Rust, and C++. My go-to too
 - **Languages**: Objective-C, Rust, C++, Swift
 - **Tools**: Xcode, VSCode, Git, JIRA, Confluence
 
-## Projects
 
-Here are some of my most notable projects:
+## GitHub Stats
 
-- **Project 1**: [Link to project 1](https://github.com/project1)
-- **Project 2**: [Link to project 2](https://github.com/project2)
-- **Project 3**: [Link to project 3](https://github.com/project3)
+![FaceWaller's github stats](https://github-readme-stats.vercel.app/api?username=FaceWaller&show_icons=true&theme=radical)
+
+
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaceWaller&layout=compact&theme=radical)](https://github.com/FaceWaller)
+
 
 ## Experience
 
-- **iOS Developer** at [Company 1](https://www.company1.com) (2018 - Present)
-- **iOS Developer** at [Company 2](https://www.company2.com) (2015 - 2018)
-
-![](https://github-readme-stats.vercel.app/api?username=FaceWaller)
+- **iOS Developer** at [滴滴](2018 - 2019)
+- **iOS Developer** at [玩吧](2019 -)
 
 ## Contact Me
 
 - [Twitter](https://twitter.com/U7kRFR68dnUN9QR)
 - [Email](mailto:1424879661@qq.com)
 
+
+<!-- ## Latest Blog Posts -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
