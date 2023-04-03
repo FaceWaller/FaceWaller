@@ -4,8 +4,8 @@ I'm an iOS developer who primarily uses Objective-C, Rust, and C++. My go-to too
 
 ## Skills
 
-- **Languages**: Objective-C, Rust, C++, Swift
-- **Tools**: Xcode, VSCode, Git, JIRA, Confluence
+- 💻 **Languages**: Objective-C, Rust, C++, Swift
+- 🔨 **Tools**: Xcode, VSCode, Git, JIRA, Confluence
 
 
 ## GitHub Stats
@@ -30,7 +30,3 @@ I'm an iOS developer who primarily uses Objective-C, Rust, and C++. My go-to too
 - [Email](mailto:1424879661@qq.com)
 
 
-<!-- ## Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
