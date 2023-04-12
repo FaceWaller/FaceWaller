@@ -23,7 +23,6 @@ I'm an iOS developer who primarily uses Objective-C, Rust, and C++. My go-to too
 
 ## Contact Me
 
-- [Twitter](https://twitter.com/U7kRFR68dnUN9QR)
 - [Email](mailto:1424879661@qq.com)
 
 
