@@ -23,8 +23,9 @@ I'm an iOS developer who primarily uses Objective-C, Rust, and C++. My go-to too
 
 ## Contact Me
 
-- [Email](mailto:1424879661@qq.com)
-
+- [📧 Email](mailto:1424879661@qq.com)
+- <a href="https://www.zhihu.com/people/qi-yue-xing-68">📖 知乎</a>
+- <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU1NTY1NzgyMg==&scene=117#wechat_redirect">📢 公众号</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=FaceWaller&show_icons=true&icon_color=a9ce1d&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" alt="GitHub Stats"/>
 
